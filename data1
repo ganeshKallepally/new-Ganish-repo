@@ -1,2 +1,8 @@
 working with banking domain project
 copilot project
+when the developer on working with jenkins in java 
+     class HelloWorld {
+          public static void main (String args[]) {
+               System.out.println("Hello World");
+          }
+     }
